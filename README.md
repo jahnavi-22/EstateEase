@@ -1,2 +1,2 @@
 # EstateEase
-Sample project to learn SpringBoot
+Spring boot project 
